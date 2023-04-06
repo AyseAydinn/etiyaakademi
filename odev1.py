@@ -64,7 +64,7 @@ krediler = [
 for kredi in krediler:
   print(kredi)
 
-#range -> alias
+
 for i in range(10):  #0'dan başlar 10 dahil değil
   print(i)
 
